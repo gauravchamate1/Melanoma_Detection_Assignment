@@ -54,9 +54,9 @@ Give credit here.
 
 
 ## Contact
-Created by [@ayush]
-Created by [@vivek]
-Created by [@gauravchamate1] - feel free to contact me!
+Created by @ayush
+Created by @vivek
+Created by @gauravchamate1 - feel free to contact me!
 
 
 
